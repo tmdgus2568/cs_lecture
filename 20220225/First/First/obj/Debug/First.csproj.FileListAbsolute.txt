@@ -1,0 +1,11 @@
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\First\bin\Debug\First.exe.config
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\First\bin\Debug\First.exe
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\First\bin\Debug\First.pdb
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\First\bin\Debug\EmpLib.dll
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\First\bin\Debug\EmpLib.pdb
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\First\obj\Debug\First.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\First\obj\Debug\First.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\First\obj\Debug\First.csproj.CopyComplete
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\First\obj\Debug\First.exe
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\First\obj\Debug\First.pdb

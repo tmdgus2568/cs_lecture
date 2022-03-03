@@ -1,0 +1,6 @@
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\EmpLib\bin\Debug\EmpLib.dll
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\EmpLib\bin\Debug\EmpLib.pdb
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\EmpLib\obj\Debug\EmpLib.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\EmpLib\obj\Debug\EmpLib.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\EmpLib\obj\Debug\EmpLib.dll
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220225\First\EmpLib\obj\Debug\EmpLib.pdb

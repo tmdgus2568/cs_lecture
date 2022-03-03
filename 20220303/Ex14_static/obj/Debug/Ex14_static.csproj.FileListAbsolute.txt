@@ -1,0 +1,8 @@
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220303\Ex14_static\bin\Debug\Ex14_static.exe.config
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220303\Ex14_static\bin\Debug\Ex14_static.exe
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220303\Ex14_static\bin\Debug\Ex14_static.pdb
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220303\Ex14_static\obj\Debug\Ex14_static.csproj.AssemblyReference.cache
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220303\Ex14_static\obj\Debug\Ex14_static.csproj.SuggestedBindingRedirects.cache
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220303\Ex14_static\obj\Debug\Ex14_static.csproj.CoreCompileInputs.cache
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220303\Ex14_static\obj\Debug\Ex14_static.exe
+C:\Users\r2com\Desktop\hsh\Lecture\BasicFramework\20220303\Ex14_static\obj\Debug\Ex14_static.pdb
